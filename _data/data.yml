@@ -83,29 +83,30 @@ experiences:
         - Communicate and support customer run test scripts, release document to run test script and the way it work
         - Set up Jenkins to run CI/CD test scripts
 projects:
-    title: Sendo
+    title: Projects
+    company: Sendo
     intro: >
-      Sendo is a Vietnamese e-commerce website which is the selling and buying of goods and service over the internet.It also include transport the good, service to custommer or return the orders to the seller 
+      Sendo is a Vietnamese e-commerce website which is the selling and buying of goods and service over the internet.It also include transport the goods, services to custommer or return the orders to the seller 
     assignments:
-      - title: Velocity
+      - title: Dashboard
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Help the director or manager view, evaluate and come to a decision which should be change based on the order, the shipment, pick up time, delivery time,linehaul time, failed PU, failed DE, FF rate board"
 
-      - title: DevStudio
+      - title: Manage and export the order,shipment
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Help the internal team can search, view the status, export, handle the order based on the orderNumber, shipment order,date of order, date of dispatch...It also help the internal team know the current status of the order to get the compensation from carrier or push them if they delivery the order to customer late"
 
-      - title: Tempo
+      - title: Import status of the shipment, different weight
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Help finance team handle the shipment, update weight to refund fee to the carrier"
 
-      - title: Atom
+      - title: Dispatch the order, shipment
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Dispatch order, shipment by automatic system. It help reduce cost and increase profit for the company"
 
-      - title: Delta
+      - title: Cross check the order, shipment 
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Help the finance team take it easy in cross check, reduce the workload and mistake"
 
 skills:
     title: Skills &amp; Proficiency
