@@ -95,13 +95,14 @@ projects:
         tagline: "It's the system that help the director or manager view, evaluate and come to a decision which should be change based on the order, the shipment, pick up time, delivery time,linehaul time, failed PU, failed DE, FF rate board.
         search, view the status, export, handle the order based on the orderNumber, shipment order,date of order, date of dispatch...It also help the internal team know the current status of the order to get the compensation 
         from carrier or push them if they delivery the order to customer late,handle the shipment, update weight to refund fee to the carrier, dispatch order, shipment by automatic system. It help reduce cost and increase profit 
-        for the company. Take it easy in cross check, reduce the workload and mistake and generate report to director
-        Responsibilities: Understand and analyze the requirement that provide by internal team
-                          Work around on the website based on the existed test case
-                          Discuss, determine the language to write test scrips and design the framework which should automate
-                          Automate the test script, run Jenkins CI/CD, generate report and report bug to jira (if have)
-                          Verify bug which fixed, weekly report to leader
-                          Help finance team sync data when display asynchronous order using jmeter (about 100.000 records/file)"
+        for the company. Take it easy in cross check, reduce the workload and mistake and generate report to director.
+        responsibilities: |
+           - Understand and analyze the requirement that provide by internal team
+           - Work around on the website based on the existed test case
+           - Discuss, determine the language to write test scrips and design the framework which should automate
+           - Automate the test script, run Jenkins CI/CD, generate report and report bug to jira (if have)
+           - Verify bug which fixed, weekly report to leader
+           - Help finance team sync data when display asynchronous order using jmeter (about 100.000 records/file)"
         
 skills:
     title: Skills &amp; Proficiency
