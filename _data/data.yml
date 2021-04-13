@@ -58,13 +58,13 @@ experiences:
       time: 2019 - Present
       company: Sendo
       details: |
-        Understand new feature/functionality defined by PO, define the testing scope required
-        Discuss, develop and review test case for the feature/ functionality with Development team
-        Choosing tool or framework to automate the test case
-        Designing and developing, maintaining the automation framework for API/UI testing
-        Reported bugs founded and posted on Jira system
-        Weekly reported testing process, issue to Project Manager
-        Remove impediments, conflict in other team member
+        - Understand new feature/functionality defined by PO, define the testing scope required
+        - Discuss, develop and review test case for the feature/ functionality with Development team
+        - Choosing tool or framework to automate the test case
+        - Designing and developing, maintaining the automation framework for API/UI testing
+        - Reported bugs founded and posted on Jira system
+        - Weekly reported testing process, issue to Project Manager
+        - Remove impediments, conflict in other team member
        
     - role: Junior and Senior Tester
       time: 11/2013 - 2019
