@@ -9,19 +9,17 @@
     </span>
     {{ projects.title }}
   </h2>
-
-  {% for project in projects %}
-   <div class="item">
-   <div class="meta">
-   <div class="upper-row">
-  <div class="company">{{ projects.company }}</div>
   
+ <div class="company">{{ projects.company }}</div>
   {% if projects.intro %}
   <div class="intro">
       <p>{{ projects.intro }}</p>
   </div><!--//intro-->
   {% endif %}
-  
+
+  {% for project in projects.assignments %}
+    <div class="item">
+
       <span class="project-title">
         {% if project.link %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
@@ -30,9 +28,10 @@
         {% endif %}
       </span>
 
-      {% if project.tagline%}
+      {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
+
     </div><!--//item-->
   {% endfor %}
 
