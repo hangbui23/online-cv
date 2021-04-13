@@ -10,6 +10,7 @@
     {{ projects.title }}
   </h2>
 
+  {% for project in  projects %}
   <div class="company">{{ projects.company }}</div>
   
   {% if projects.intro %}
@@ -34,6 +35,7 @@
       {% endif %}
 
     </div><!--//item-->
+  {% endfor %}
   {% endfor %}
 
 </section><!--//section-->
