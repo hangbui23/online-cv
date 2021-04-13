@@ -41,7 +41,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a senior tester with more 6 years of experience in both manual and automation testing.
+      I'm a senior tester with more than 6 years of experience in both manual and automation testing.
       I love automating and taking software quality to new heights through integration of the best pratice.
       Learning new technologies or new type of testing is what I am passionate about. I'm considered a team player because I like to help 
       other and tend to work well within group.
@@ -58,14 +58,16 @@ experiences:
       time: 2019 - Present
       company: Sendo
       details: |
+        - Software testing process like Waterfall, Scrum/Agile model.
+        - Testing level such as unit test, regression test, system test, acceptance test
         - Understand new feature/functionality defined by PO, define the testing scope required
         - Discuss, develop and review test case for the functionality with Development team
-        - Choosing tool or framework to automate the test case
+        - Choose tool or framework to automate the test case
         - Designing and developing, maintaining the automation framework for API/UI testing
-        - Reported bugs founded and posted on Jira system
+        - Report bugs founded and posted on Jira system
         - Verify bug When fixed
         - Weekly reported testing process, issue to Project Manager
-        - Remove impediments, conflict in other team member
+        - Remove impediments, conflict in team member
        
     - role: Junior and Senior Tester
       time: 11/2013 - 2019
@@ -76,16 +78,14 @@ experiences:
         - Develop and tracking test case base on QTest tool
         - Test manual on the product and tracking bug to Jira system
         - Develop test script both on Mobile and Web using Katalon and Selenium framework
-        - Indentified the issue, report bug founded in the Jira system, verify bug when fixed
+        - Indentify the issue, report bug founded in the Jira system, verify bug when fixed
         - Coach, tranning and review new test script for the new member
         - Communicate and support customer run test scripts, release document to run test script and the way it work
         - Set up Jenkins to run CI/CD test scripts
 projects:
-    title: Projects
+    title: Sendo
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Sendo is a Vietnamese e-commerce website which is the selling and buying of goods and service over the internet.It also include transport the good, service to custommer or return the orders to the seller 
     assignments:
       - title: Velocity
         link: "#hook"
