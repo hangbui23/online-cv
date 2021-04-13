@@ -103,6 +103,36 @@ projects:
                           Verify bug which fixed, weekly report to leader
                           Help finance team sync data when display asynchronous order using jmeter (about 100.000 records/file)"
         
+        company: KMS Technology
+        intro: >
+        KMS Technology is a leading provider of offshore software development, testing services, and consulting. 
+
+        assignments:
+      - title: ATC project
+        link: "#hook"
+        tagline: "This is an online marketplace which fuctions as an online markertplace for car purchasers and sellers
+        Responsibilities: Understand and analyze the requirement that provide by the customer
+                          Create test case and test manual, scripting on web, mobile
+                          Tracking bug to jira and verify when fixed
+                          Report daily task to leader"
+       
+      - title:HMS project
+        link: "#"
+        tagline: "Sold the harvested data to third party system
+        Responsibilities: Analyze the requirement and using the customer tool to harvest and parse data to the DB"
+
+      - title: CareLogistics
+        link: "#"
+        tagline: "That is a company that provided healcare service to the hospital
+        Responsibilities: Analyze the requirement and discuss with team member and client
+                          Join in Agile model: Dali meeting, sprint review, retrospective..
+                          Writing test script, custom keyword using katalon
+                          Identify the issue, write report, communicate with the customer via email,slack
+                          Post and tracking defect using Jira and run ad hoc test when have new build
+                          Coach and training, review new test script for the new member
+                          Set up Jenkins to run CI/CD
+                          Set up the Sonaqube to show the healthy code
+                          Set up the report portal to analyze report"
 skills:
     title: Skills &amp; Proficiency
 
