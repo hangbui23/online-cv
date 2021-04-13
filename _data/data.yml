@@ -59,10 +59,11 @@ experiences:
       company: Sendo
       details: |
         - Understand new feature/functionality defined by PO, define the testing scope required
-        - Discuss, develop and review test case for the feature/ functionality with Development team
+        - Discuss, develop and review test case for the functionality with Development team
         - Choosing tool or framework to automate the test case
         - Designing and developing, maintaining the automation framework for API/UI testing
         - Reported bugs founded and posted on Jira system
+        - Verify bug When fixed
         - Weekly reported testing process, issue to Project Manager
         - Remove impediments, conflict in other team member
        
@@ -70,14 +71,15 @@ experiences:
       time: 11/2013 - 2019
       company: KMS Technology
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    
+        - Understand and analyze the specification documents
+        - Discuss with team member and client to clarify the ambiguous case 
+        - Develop and tracking test case base on QTest tool
+        - Test manual on the product and tracking bug to Jira system
+        - Develop test script both on Mobile and Web using Katalon and Selenium framework
+        - Indentified the issue, report bug founded in the Jira system, verify bug when fixed
+        - Coach, tranning and review new test script for the new member
+        - Communicate and support customer run test scripts, release document to run test script and the way it work
+        - Set up Jenkins to run CI/CD test scripts
 projects:
     title: Projects
     intro: >
