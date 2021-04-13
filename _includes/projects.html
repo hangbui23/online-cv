@@ -32,7 +32,7 @@
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
-       <div class="company">{{ projects.company }}</div>
+      <h3 class="project-responsibilities">{{ project.name }}</h3>
        {% if project.responsibilities %}
     <div class="details">
       {{ project.responsibilities | markdownify }}
