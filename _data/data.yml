@@ -85,7 +85,7 @@ experiences:
         - Set up and run SonarQube to show the healthy of the code
         - Set up report portal to analyzr the report
 projects:
-    title: Projects
+    title: Company and Projects
     company: Sendo
     intro: >
       Sendo is a Vietnamese e-commerce website which is the selling and buying of goods and service over the internet.It also include transport the goods, services to custommer or return the orders to the seller 
@@ -96,6 +96,7 @@ projects:
         search, view the status, export, handle the order based on the orderNumber, shipment order,date of order, date of dispatch...It also help the internal team know the current status of the order to get the compensation 
         from carrier or push them if they delivery the order to customer late,handle the shipment, update weight to refund fee to the carrier, dispatch order, shipment by automatic system. It help reduce cost and increase profit 
         for the company. Take it easy in cross check, reduce the workload and mistake and generate report to director."
+        name: My responsibilities:
         responsibilities: |
            - Understand and analyze the requirement that provide by internal team
            - Work around on the website based on the existed test case
