@@ -106,7 +106,7 @@ projects:
 
       - title: Cross check the order, shipment 
         link: "#"
-        tagline: "Help the finance team take it easy in cross check, reduce the workload and mistake"
+        tagline: "Help the finance team take it easy in cross check, reduce the workload and mistake and generate report to director"
 
 skills:
     title: Skills &amp; Proficiency
@@ -129,6 +129,3 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
