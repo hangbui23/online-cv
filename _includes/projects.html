@@ -10,14 +10,20 @@
     {{ projects.title }}
   </h2>
   
+  {% for project in projects.company %}
+    <div class="item">
+
+   {% if projects.company %}
+    <div class="company">
+     <p>{{ projects.company }}</p>
+  </div><!--//intro-->
+  {% endif %}
+      
   {% if projects.intro %}
   <div class="intro">
       <p>{{ projects.intro }}</p>
   </div><!--//intro-->
   {% endif %}
-
-  {% for project in projects.assignments %}
-    <div class="item">
 
       <span class="project-title">
         {% if project.link %}
