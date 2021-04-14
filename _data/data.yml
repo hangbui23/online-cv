@@ -85,54 +85,59 @@ experiences:
         - Set up and run SonarQube to show the healthy of the code
         - Set up report portal to analyzr the report
 projects:
-  title: Company and Projects
-  company: Sendo
-    intro: >
-      Sendo is a Vietnamese e-commerce website which is the selling and buying of goods and service over the internet.It also include transport the goods, services to custommer or return the orders to the seller 
-    assignments:
-      - title: Logistics Manage System
-        link: "#hook"
-        tagline: "It's the system that help the director or manager view, evaluate and come to a decision which should be change based on the order, the shipment, pick up time, delivery time,linehaul time, failed PU, failed DE, FF rate board.
-        search, view the status, export, handle the order based on the orderNumber, shipment order,date of order, date of dispatch...It also help the internal team know the current status of the order to get the compensation 
-        from carrier or push them if they delivery the order to customer late,handle the shipment, update weight to refund fee to the carrier, dispatch order, shipment by automatic system. It help reduce cost and increase profit 
-        for the company. Take it easy in cross check, reduce the workload and mistake and generate report to director."
-        responsibilities: |
-          - Understand and analyze the requirement that provide by internal team
-          - Work around on the website based on the existed test case
-          - Discuss, determine the language to write test scrips and design the framework which should automate
-          - Automate the test script, run Jenkins CI/CD, generate report and report bug to jira (if have)
-          - Verify bug which fixed, weekly report to leader
-          - Help finance team sync data when display asynchronous order using jmeter (about 100.000 records/file)
-  company: KMS Technology
-    intro: >
-      KMS Technology is a leading provider of offshore software development, testing services, and consulting. 
-    assignments:
-      - title: ATC project
-        link: "#hook"
-        tagline: "This is an online marketplace which fuctions as an online markertplace for car purchasers and sellers."
-        responsibilities: |
-          - Understand and analyze the requirement that provided by the customer
-          - Create test case and test manual, scripting on web, mobile
-          - Tracking bug on Jira and verify fixed bug
-          - Report daily task to leader
-      - title: HMS project
-        link: "#hook"
-        tagline: "Sell the harvested data to the third party system."
-        responsibilities: |
-          - Analyze the requirement and using customer tool to harvest and parse data to DB
-      - title: CareLogistics
-        link: "#"
-        tagline: "That is a company that provided healcare service to the hospital"
-        responsibilities: |
-          - Analyze the requirement and discuss with team member and client
-          - Join in Agile model: Dali meeting, sprint review, retrospective...
-          - Writing test script, custom keyword using katalon
-          - Identify the issue, write report, communicate with the customer via email,slack
-          - Post and tracking defect using Jira and run ad hoc test when have new build
-          - Coach and training, review new test script for the new member
-          - Set up Jenkins to run CI/CD
-          - Set up the Sonaqube to show the healthy code
-          - Set up the report portal to analyze report
+    title: Company and Projects
+    companies: 
+      - company: Sendo
+        intro: >
+          Sendo is a Vietnamese e-commerce website which is the selling and buying of goods and service over the internet.It also include transport the goods, services to custommer or return the orders to the seller 
+        assignments:
+          - title: Logistics Manage System
+            link: "#hook"
+            tagline: "It's the system that help the director or manager view, evaluate and come to a decision which should be change based on the order, the shipment, pick up time, delivery time,linehaul time, failed PU, failed DE, FF rate board.
+            search, view the status, export, handle the order based on the orderNumber, shipment order,date of order, date of dispatch...It also help the internal team know the current status of the order to get the compensation 
+            from carrier or push them if they delivery the order to customer late,handle the shipment, update weight to refund fee to the carrier, dispatch order, shipment by automatic system. It help reduce cost and increase profit 
+            for the company. Take it easy in cross check, reduce the workload and mistake and generate report to director."
+            responsibilities: |
+              - Understand and analyze the requirement that provide by internal team
+              - Work around on the website based on the existed test case
+              - Discuss, determine the language to write test scrips and design the framework which should automate
+              - Automate the test script, run Jenkins CI/CD, generate report and report bug to jira (if have)
+              - Verify bug which fixed, weekly report to leader
+              - Help finance team sync data when display asynchronous order using jmeter (about 100.000 records/file)
+      
+      - company: KMS Technology     
+        intro: >
+          KMS Technology is a leading provider of offshore software development, testing services, and consulting. 
+        assignments:
+          - title: ATC project
+            link: "#hook"
+            tagline: "This is an online marketplace which fuctions as an online markertplace for car purchasers and sellers."
+            responsibilities: |
+                - Understand and analyze the requirement that provided by the customer
+                - Create test case and test manual, scripting on web, mobile
+                - Tracking bug on Jira and verify fixed bug
+                - Report daily task to leader
+          
+          - title: HMS project
+            link: "#hook"
+            tagline: "Sell the harvested data to the third party system."
+            responsibilities: |
+              - Analyze the requirement and using customer tool to harvest and parse data to DB
+              
+          - title: CareLogistics
+            link: "#"
+            tagline: "That is a company that provided healcare service to the hospital"
+            responsibilities: |
+              - Analyze the requirement and discuss with team member and client
+              - Join in Agile model: Dali meeting, sprint review, retrospective...
+              - Writing test script, custom keyword using katalon
+              - Identify the issue, write report, communicate with the customer via email,slack
+              - Post and tracking defect using Jira and run ad hoc test when have new build
+              - Coach and training, review new test script for the new member
+              - Set up Jenkins to run CI/CD
+              - Set up the Sonaqube to show the healthy code
+              - Set up the report portal to analyze report
+        
 skills:
     title: Skills &amp; Proficiency
 
