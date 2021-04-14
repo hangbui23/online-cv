@@ -112,10 +112,10 @@ projects:
         link: "#hook"
         tagline: "This is an online marketplace which fuctions as an online markertplace for car purchasers and sellers."
        
-      - title: HMS project
-        link: "#"
-        tagline: "Sold the harvested data to third party system."a
-	
+     - title: HMS project
+        link: "#hook"
+        tagline: "This is an online marketplace which fuctions as an online markertplace for car purchasers and sellers."
+      
       - title: CareLogistics
         link: "#"
         tagline: "That is a company that provided healcare service to the hospital"
