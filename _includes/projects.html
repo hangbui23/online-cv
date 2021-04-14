@@ -38,6 +38,10 @@
       - <span class="project-tagline">{{ assignment.tagline }}</span>
       {% endif %}
 
+      {% if assignment.my-responsibility %}
+      - <span class="project-myresponsibility">{{ assignment.my-responsibility }}</span>
+      {% endif %}
+      
       {% if assignment.responsibilities %}
     <div class="details">
       {{ assignment.responsibilities | markdownify }}
