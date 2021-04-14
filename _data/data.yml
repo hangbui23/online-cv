@@ -58,7 +58,7 @@ experiences:
       time: 2019 - Present
       company: Sendo
       details: |
-        - Software testing process like Waterfall, Scrum/Agile model.
+        - Software testing process like Waterfall, Scrum/Agile model.a
         - Testing level such as unit test, regression test, system test, acceptance test
         - Understand new feature/functionality defined by PO, define the testing scope required
         - Discuss, develop and review test case for the functionality with Development team
@@ -96,8 +96,9 @@ projects:
             tagline: "It's the system that help the director or manager view, evaluate and come to a decision which should be change based on the order, the shipment, pick up time, delivery time,linehaul time, failed PU, failed DE, FF rate board.
             search, view the status, export, handle the order based on the orderNumber, shipment order,date of order, date of dispatch...It also help the internal team know the current status of the order to get the compensation 
             from carrier or push them if they delivery the order to customer late,handle the shipment, update weight to refund fee to the carrier, dispatch order, shipment by automatic system. It help reduce cost and increase profit 
-            for the company. Take it easy in cross check, reduce the workload and mistake and generate report to director." 
-            responsibilities: |
+            for the company. Take it easy in cross check, reduce the workload and mistake and generate report to director."
+        my-responsibility: Responsibilities    
+        responsibilities: |
               - Understand and analyze the requirement that provide by internal team
               - Work around on the website based on the existed test case
               - Discuss, determine the language to write test scrips and design the framework which should automate
@@ -112,6 +113,7 @@ projects:
           - title: ATC project
             link: "#hook"
             tagline: "This is an online marketplace which fuctions as an online markertplace for car purchasers and sellers."
+            my-responsibility: Responsibilities      
             responsibilities: |
                 - Understand and analyze the requirement that provided by the customer
                 - Create test case and test manual, scripting on web, mobile
@@ -121,12 +123,14 @@ projects:
           - title: HMS project
             link: "#hook"
             tagline: "Sell the harvested data to the third party system."
+            my-responsibility: Responsibilities  
             responsibilities: |
               - Analyze the requirement and using customer tool to harvest and parse data to DB
               
           - title: CareLogistics
             link: "#"
             tagline: "That is a company that provided healcare service to the hospital"
+            my-responsibility: Responsibilities   
             responsibilities: |
               - Analyze the requirement and discuss with team member and client
               - Join in Agile model: Dali meeting, sprint review, retrospective...
