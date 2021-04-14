@@ -40,6 +40,10 @@
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
+       {% if project.responsibilities %}
+      - <span class="project-responsibilities">{{ project.responsibilities }}</span>
+      {% endif %}
+      
     </div><!--//item-->
   {% endfor %}
   {% endfor %}
