@@ -114,7 +114,7 @@ projects:
        
      - title: HMS project
         link: "#hook"
-        tagline: "This is an online marketplace which fuctions as an online markertplace for car purchasers and sellers."
+        tagline: "Sell the harvested data to the third party system."
       
       - title: CareLogistics
         link: "#"
