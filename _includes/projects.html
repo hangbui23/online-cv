@@ -13,37 +13,17 @@
   {% for project in projects.companies %}
     <div class="item">
 
-   {% if projects.companies %}
+   {% if project.company %}
     <div class="company">
-     <p>{{ projects.company }}</p>
-  </div><!--//intro-->
-  {% endif %}
-      
-  {% if projects.intro %}
-  <div class="intro">
-      <p>{{ projects.intro }}</p>
-  </div><!--//intro-->
-  {% endif %}
-
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
-        {% endif %}
-      </span>
-
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
-
-       {% if project.responsibilities %}
-    <div class="details">
-      {{ project.responsibilities | markdownify }}
-    </div><!--//details-->
+     <p>{{ project.company }}</p>
+    </div><!--//intro-->
     {% endif %}
-      
-    </div><!--//item-->
+        
+    {% if project.intro %}
+    <div class="intro">
+        <p>{{ project.intro }}</p>
+    </div><!--//intro-->
+    {% endif %}
   {% endfor %}
 
 </section><!--//section-->
