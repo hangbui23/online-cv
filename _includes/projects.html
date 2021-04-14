@@ -16,36 +16,36 @@
    {% if project.company %}
     <div class="company">
      <p>{{ project.company }}</p>
-    </div><!--//intro-->
-    {% endif %}
-        
-    {% if project.intro %}
-    <div class="intro">
-        <p>{{ project.intro }}</p>
-    </div><!--//intro-->
-    {% endif %}
+  </div><!--//intro-->
+  {% endif %}
       
-       {% for project in projects.assignments %}
-    <div class="item">
-
+  {% if project.intro %}
+  <div class="intro">
+      <p>{{ project.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+  {% assign assignments = project.assignments %}
+  {% for assignment in assignments %}
       <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+        {% if assignment.link %}
+        <a href="{{ project.link }}" target="_blank">{{ assignment.title }}</a>
         {% else %}
-        {{ project.title }}
+        {{ assignment.title }}
         {% endif %}
       </span>
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      {% if assignment.tagline %}
+      - <span class="project-tagline">{{ assignment.tagline }}</span>
       {% endif %}
 
-       {% if project.responsibilities %}
-      - <span class="project-responsibilities">{{ project.responsibilities }}</span>
-      {% endif %}
-      
-    </div><!--//item-->
+      {% if assignment.responsibilities %}
+    <div class="details">
+      {{ assignment.responsibilities | markdownify }}
+    </div><!--//details-->
+{% endif %}
   {% endfor %}
+      
+    
   {% endfor %}
 
 </section><!--//section-->
