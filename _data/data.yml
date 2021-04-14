@@ -121,7 +121,6 @@ projects:
 	responsibilities: |
            - Analyze the requirement and using the customer tool to harvest and parse data to the DB
        
-
       - title: CareLogistics
         link: "#"
         tagline: "That is a company that provided healcare service to the hospital"
