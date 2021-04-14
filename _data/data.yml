@@ -117,9 +117,10 @@ projects:
        
       - title:HMS project
         link: "#"
-        tagline: "Sold the harvested data to third party system"
-        responsibilities: |
-	   - Analyze the requirement and using the customer tool to harvest and parse data to the DB
+        tagline: "Sold the harvested data to third party system."
+	responsibilities: |
+           - Analyze the requirement and using the customer tool to harvest and parse data to the DB
+       
 
       - title: CareLogistics
         link: "#"
