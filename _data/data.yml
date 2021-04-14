@@ -117,18 +117,12 @@ projects:
            - Tracking bug to jira and verify when fixed
            - Report daily task to leader
        
-       	company: KMS Technology     
-     	intro: >
-        KMS Technology is a leading provider of offshore software development, testing services, and consulting.
-      - title:HMS project
+      - title: HMS project
         link: "#"
         tagline: "Sold the harvested data to third party system."
 	responsibilities: |
            - Analyze the requirement and using the customer tool to harvest and parse data to the DB
        
-       	company: KMS Technology     
-     	intro: >
-        KMS Technology is a leading provider of offshore software development, testing services, and consulting.
       - title: CareLogistics
         link: "#"
         tagline: "That is a company that provided healcare service to the hospital"
