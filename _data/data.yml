@@ -111,17 +111,11 @@ projects:
       - title: ATC project
         link: "#hook"
         tagline: "This is an online marketplace which fuctions as an online markertplace for car purchasers and sellers."
-	responsibilities: |
-           - Understand and analyze the requirement that provide by the customer
-           - Create test case and test manual, scripting on web, mobile
-           - Tracking bug to jira and verify when fixed
-           - Report daily task to leader
        
       - title: HMS project
         link: "#"
         tagline: "Sold the harvested data to third party system."
-	responsibilities: |
-           - Analyze the requirement and using the customer tool to harvest and parse data to the DB
+	
        
       - title: CareLogistics
         link: "#"
