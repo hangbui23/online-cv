@@ -120,7 +120,9 @@ projects:
      - title: HMS project
         link: "#hook"
         tagline: "Sell the harvested data to the third party system."
-      
+        responsibilities: |
+           -Analyze the requirement and using customer tool to harvest and parse data to DB
+           
       - title: CareLogistics
         link: "#"
         tagline: "That is a company that provided healcare service to the hospital"
