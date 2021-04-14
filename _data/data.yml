@@ -108,7 +108,7 @@ projects:
      assignments:
       - title: ATC project
         link: "#hook"
-        tagline: "This is an online marketplace which fuctions as an online markertplace for car purchasers and sellers"
+        tagline: "This is an online marketplace which fuctions as an online markertplace for car purchasers and sellers."
 	responsibilities: |
            - Understand and analyze the requirement that provide by the customer
            - Create test case and test manual, scripting on web, mobile
@@ -125,7 +125,7 @@ projects:
         link: "#"
         tagline: "That is a company that provided healcare service to the hospital"
         responsibilities: |
-	   - Analyze the requirement and discuss with team member and client
+           - Analyze the requirement and discuss with team member and client
            - Join in Agile model: Dali meeting, sprint review, retrospective...
            - Writing test script, custom keyword using katalon
            - Identify the issue, write report, communicate with the customer via email,slack
