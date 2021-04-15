@@ -39,14 +39,14 @@
       {% endif %}
 
       {% if assignment.my-responsibility %}
-      - <span class="project-myresponsibility">{{ assignment.my-responsibility }}</span>
+      <span class="project-myresponsibility">{{ assignment.my-responsibility }}</span>
       {% endif %}
       
       {% if assignment.responsibilities %}
     <div class="details">
       {{ assignment.responsibilities | markdownify }}
     </div><!--//details-->
-{% endif %}
+  {% endif %}
   {% endfor %}
       
     
