@@ -164,20 +164,44 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Software Testing Process(Agile/Scrum, Waterfall)
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Bug life cycle
         level: 98%
 
-      - name: Angular
+      - name: Testing Method (Black box, White box)
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Automation Testing Tool (Katalon)
+        level: 98%
+        
+      - name: Web Application Technology (Xpath, CSS)
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Database SQL (SQL Server, Postgresql)
         level: 85%
-
-      - name: Sketch & Photoshop
+        
+      - name: Programming Language (Java)
+        level: 80%
+      
+      - name: Selenium,Cucumber
+        level: 80%
+    
+      - name: Design Pattern (Page Object Modle, Factory Pattern)
+        level: 75%
+        
+      - name: Performance Testing (Jmeter)
+        level: 70%
+  
+      - name: Management Tool (Jira)
+        level: 70%
+  
+      - name: Source Control (Git,Git bucket,Gitlab,SVN)
         level: 60%
+      
+      - name: Build/Continious tool (Maven, Jenkins, Selenium grid)
+        level: 60%
+
+      - name: Third party tool (AutoIT)
+        level: 40%
