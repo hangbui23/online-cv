@@ -98,7 +98,7 @@ projects:
             responsibilities: |
               - Understand and analyze the requirement provided by internal team
               - Work around on the website based on the existed test case
-              - Discuss, determine the language to write test scrips and design the framework which should automate
+              - Discuss, determine the language to write test scrips and design the framework which should be automated
               - Automate the test script, run Jenkins CI/CD, generate report and report bug to jira (if have)
               - Verify shipping Fee, promotion of the order based on amount of the item,weight in the order.
               - Verify status rule of the shipment based on the document of the operation team 
