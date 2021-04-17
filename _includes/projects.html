@@ -28,13 +28,16 @@
   {% for assignment in assignments %}
       <span class="project-title">
         {% if assignment.link %}
-        <a href="{{ project.link }}" target="_blank">{{ assignment.title }}: <span class="project-tagline">{{ assignment.tagline }}</span></a>
+        <a href="{{ project.link }}" target="_blank">{{ assignment.title }}: <span class=""></span></a>
         {% else %}
         {{ assignment.title }}
         {% endif %}
       </span>
+       
+      {% if project.tagline %}
+      <span class="project-tagline">{{ project.tagline }}</span>
+      {% endif %}
       
-      <br class=""></br>
       {% if assignment.my-responsibility %}
        <br class="project-myresponsibility"><strong>{{ assignment.my-responsibility }}:<span class=""></span></strong>
       </br>
