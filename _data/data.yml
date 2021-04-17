@@ -164,44 +164,44 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Software Testing Process(Agile/Scrum, Waterfall)
+      - name: Agile/Scrum, Waterfall
         level: 98%
 
       - name: Bug life cycle
         level: 98%
 
-      - name: Testing Method (Black box, White box)
+      - name: Black box, White box
         level: 98%
 
-      - name: Automation Testing Tool (Katalon)
+      - name: Katalon
         level: 98%
         
-      - name: Web Application Technology (Xpath, CSS)
+      - name: Xpath, CSS
         level: 95%
 
-      - name: Database SQL (SQL Server, Postgresql)
+      - name: SQL Server, Postgresql
         level: 85%
         
-      - name: Programming Language (Java)
+      - name: Java
         level: 80%
       
       - name: Selenium,Cucumber
         level: 80%
     
-      - name: Design Pattern (Page Object Modle, Factory Pattern)
+      - name: Page Object Model, Factory Pattern
         level: 75%
         
-      - name: Performance Testing (Jmeter)
+      - name: Jmeter
         level: 70%
   
-      - name: Management Tool (Jira)
+      - name: Jira
         level: 70%
   
-      - name: Source Control (Git,Git bucket,Gitlab,SVN)
+      - name: Git,Git bucket,Gitlab,SVN
         level: 60%
       
-      - name: Build/Continious tool (Maven, Jenkins, Selenium grid)
+      - name: Maven, Jenkins, Selenium grid
         level: 60%
 
-      - name: Third party tool (AutoIT)
+      - name: AutoIT
         level: 40%
