@@ -188,7 +188,7 @@ skills:
       - name: Selenium,Cucumber
         level: 80%
     
-      - name: Page Object Model, Factory Pattern
+      - name: POM, Factory Pattern
         level: 75%
         
       - name: Jmeter
@@ -197,10 +197,10 @@ skills:
       - name: Jira
         level: 70%
   
-      - name: Git,Git bucket,Gitlab,SVN
+      - name: Git, Git bucket, SVN
         level: 60%
       
-      - name: Maven, Jenkins, Selenium grid
+      - name: Jenkins,Selenium grid
         level: 60%
 
       - name: AutoIT
