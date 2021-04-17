@@ -25,6 +25,7 @@
   </div><!--//intro-->
   {% endif %}
   {% assign assignments = project.assignments %}
+
   {% for assignment in assignments %}
       <span class="project-title">
         {% if assignment.link %}
@@ -34,8 +35,8 @@
         {% endif %}
       </span>
        
-      {% if project.tagline %}
-      : <span class="project-tagline">{{ project.tagline }}</span>
+      {% if assignment.tagline %}
+      : <span class="project-tagline">{{ assignment.tagline }}</span>
       {% endif %}
       
       {% if assignment.my-responsibility %}
