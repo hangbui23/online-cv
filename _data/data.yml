@@ -58,9 +58,9 @@ experiences:
       time: 2019 - Present
       company: Sendo
       details: |
-        - Software testing process like Waterfall, Scrum/Agile model.a
+        - Software testing process like Waterfall, Scrum/Agile model.
         - Testing level such as unit test, regression test, system test, acceptance test
-        - Understand new feature/functionality defined by PO, define the testing scope required
+        - Analyze and question to the PO, customer
         - Discuss, develop and review test case for the functionality with Development team
         - Choose tool or framework to automate the test case
         - Designing and developing, maintaining the automation framework for API/UI testing
@@ -76,14 +76,14 @@ experiences:
         - Understand and analyze the specification documents
         - Discuss with team member and client to clarify the ambiguous case 
         - Develop and tracking test case base on QTest tool
-        - Test manual on the product and tracking bug to Jira system
+        - Test manual and tracking bug on Jira
         - Develop test script both on Mobile and Web using Katalon and Selenium framework
         - Indentify the issue, report bug founded in the Jira system, verify bug when fixed
         - Coach, tranning and review new test script for the new member
         - Communicate and support customer run test scripts, release document to run test script and the way it work
         - Set up Jenkins to run CI/CD test scripts
         - Set up and run SonarQube to show the healthy of the code
-        - Set up report portal to analyzr the report
+        - Set up report portal to analyze the report
 projects:
     title: Company and Projects
     companies: 
