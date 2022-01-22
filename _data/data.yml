@@ -182,19 +182,22 @@ skills:
       - name: Java
         level: 80%
       
-      - name: Selenium, Cucumber
+      - name: Selenium, Cucumber, Appium
         level: 80%
     
-      - name: POM, Factory Pattern, TestNG,Junit framework
+      - name: AUtomation Testing FW (TestNG, Junit)
         level: 75%
         
-      - name: Jmeter
+      - name: AUtomation Testing FW Type (Record Playback,Modular...)
+        level: 75%
+        
+      - name: Performance Testing (Jmeter)
         level: 70%
   
       - name: Jira
         level: 70%
   
-      - name: Git, Git bucket, SVN
+      - name: SVC(Github,Gitlab...)
         level: 60%
       
       - name: Jenkins, Selenium grid
