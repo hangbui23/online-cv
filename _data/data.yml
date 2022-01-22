@@ -185,10 +185,10 @@ skills:
       - name: Selenium, Cucumber, Appium
         level: 80%
     
-      - name: AUtomation Testing FW (TestNG, Junit)
+      - name: Automation Testing FW (TestNG, Junit)
         level: 75%
         
-      - name: AUtomation Testing FW Type (Record Playback,Modular...)
+      - name: Automation Testing FW Type (Record Playback,Modular...)
         level: 75%
         
       - name: Performance Testing (Jmeter)
