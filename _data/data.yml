@@ -185,7 +185,7 @@ skills:
       - name: Selenium, Cucumber
         level: 80%
     
-      - name: POM, Factory Pattern
+      - name: POM, Factory Pattern, TestNG,Junit framework
         level: 75%
         
       - name: Jmeter
