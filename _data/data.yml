@@ -123,6 +123,17 @@ projects:
               - Understand and analyze the requirement provided by internal team
               - Verify UI of the Sengo website
               - Verify the correlative shippingFee's carrier... 
+              
+          - title: Online grocery
+            link: "#hook"
+            tagline: "That's the online grocery project that user can buy fruits, sugar...via booking online on Sendo app "
+            my-responsibility: Responsibilities
+            responsibilities: |
+              - Understand and analyze the requirement provided by internal team
+              - Verify UI of TMS (Transport mamnagement system) website
+              - Verify the logic dispatch the D2D,cabinet and fride order...
+              - Help dev create multiple order data to test (maybe 1000 orders in once time)...
+              - Support the QC in another team test intergate to make sure all the system work fine...
 
       - company: KMS Technology     
         intro: >
